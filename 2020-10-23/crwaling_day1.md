@@ -59,4 +59,4 @@ data.columns = ['title', 'datetime', 'information']
 data
 ```
 
-![image-20201023210750252](C:\Users\USER\AppData\Roaming\Typora\typora-user-images\image-20201023210750252.png)
+![crawling_day1](C:\Users\USER\Pictures\crawling_day1.PNG)
