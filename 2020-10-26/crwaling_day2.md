@@ -2,6 +2,10 @@
 
 ## Day2
 
+- csv 파일에 담기 위한 형태는 생성됨
+- 여러날짜의 데이터를 수집하기위해 반복문을 사용하여 함수를 생성시켜야 함
+- 현재 selenium과 BeautifulSoup을 같이 사용해서 만든 크롤링 데이터가 없음
+
 ```python
 from selenium import webdriver
 from bs4 import BeautifulSoup
